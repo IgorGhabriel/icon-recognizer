@@ -1,0 +1,3 @@
+[submodule "material-design-icons"]
+	path = material-design-icons
+	url = git@github.com:marella/material-design-icons.git
